@@ -5,6 +5,3 @@ This repository contains a pdf file with the Africa's talking landing site desig
 
 Name:Priscilla Ainomugisha
 
-email:ainomugishapriscilla00@gmail.com
-
-tel:0708890223
